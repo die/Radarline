@@ -1,5 +1,5 @@
 # Radarline
-This is a program that overlays a radarline and a dot over a Call of Duty instance in order to make wallbanging and sniping easier.
+A program to overlay a radarline and a dot over a Call of Duty instance in order to make wallbanging and sniping easier.
 ## Example
 ![image](https://user-images.githubusercontent.com/58831335/184793083-dfc98bce-7429-4c51-94ca-ae9e0aab64c2.png)
 ## Troubleshooting
